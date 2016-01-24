@@ -1,3 +1,4 @@
+
 $(function(){
 	var scale2img = {}
 	jp2kr = {
