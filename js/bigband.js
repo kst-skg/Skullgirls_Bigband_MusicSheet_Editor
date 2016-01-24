@@ -1,4 +1,7 @@
 $(function(){
+    $('#form_id').sayt();
+});
+$(function(){
 	var scale2img = {}
 	jp2kr = {
 		"↑ｼ": '<div class="note note-5B"></div>',
