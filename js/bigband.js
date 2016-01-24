@@ -1,5 +1,5 @@
 $(function(){
-    $('#form_id').sayt();
+    $('textarea *').sayt();
 });
 $(function(){
 	var scale2img = {}
