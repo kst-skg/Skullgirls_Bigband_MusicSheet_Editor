@@ -1,0 +1,60 @@
+/*bigband*/
+.note{
+    background: url(..//img/notes.png) no-repeat top left;display:inline-block;
+}
+.note-3A{ background-position: 0 0; width: 10px; height: 55px; } 
+.note-3AS{ background-position: -15px 0; width: 10px; height: 55px; } 
+.note-3B{ background-position: -30px 0; width: 10px; height: 55px; } 
+.note-3C{ background-position: -45px 0; width: 10px; height: 55px; } 
+.note-3CS{ background-position: -60px 0; width: 10px; height: 55px; } 
+.note-3D{ background-position: -75px 0; width: 10px; height: 55px; } 
+.note-3DS{ background-position: -90px 0; width: 10px; height: 55px; } 
+.note-3E{ background-position: -105px 0; width: 10px; height: 55px; } 
+.note-3F{ background-position: -120px 0; width: 10px; height: 55px; } 
+.note-3FS{ background-position: -135px 0; width: 10px; height: 55px; } 
+.note-3G{ background-position: -150px 0; width: 10px; height: 55px; } 
+.note-3GS{ background-position: -165px 0; width: 10px; height: 55px; } 
+.note-4A{ background-position: -180px 0; width: 10px; height: 55px; } 
+.note-4AS{ background-position: -195px 0; width: 10px; height: 55px; } 
+.note-4B{ background-position: -210px 0; width: 10px; height: 55px; } 
+.note-4C{ background-position: -225px 0; width: 10px; height: 55px; } 
+.note-4CS{ background-position: -240px 0; width: 10px; height: 55px; } 
+.note-4D{ background-position: -255px 0; width: 10px; height: 55px; } 
+.note-4DS{ background-position: -270px 0; width: 10px; height: 55px; } 
+.note-4E{ background-position: -285px 0; width: 10px; height: 55px; } 
+.note-4F{ background-position: -300px 0; width: 10px; height: 55px; } 
+.note-4FS{ background-position: -315px 0; width: 10px; height: 55px; } 
+.note-4G{ background-position: -330px 0; width: 10px; height: 55px; } 
+.note-4GS{ background-position: -345px 0; width: 10px; height: 55px; } 
+.note-5A{ background-position: -360px 0; width: 10px; height: 55px; } 
+.note-5AS{ background-position: -375px 0; width: 10px; height: 55px; } 
+.note-5B{ background-position: -390px 0; width: 10px; height: 55px; } 
+.note-5C{ background-position: -405px 0; width: 10px; height: 55px; } 
+.note-5CS{ background-position: -420px 0; width: 10px; height: 55px; } 
+.note-5D{ background-position: -435px 0; width: 10px; height: 55px; } 
+.note-5DS{ background-position: -450px 0; width: 10px; height: 55px; } 
+.note-5E{ background-position: -465px 0; width: 10px; height: 55px; } 
+.note-5F{ background-position: -480px 0; width: 10px; height: 55px; } 
+.note-5FS{ background-position: -495px 0; width: 10px; height: 55px; } 
+.note-5G{ background-position: -510px 0; width: 10px; height: 55px; } 
+.note-5GS{ background-position: -525px 0; width: 10px; height: 55px; } 
+.note-BAR{ background-position: -540px 0; width: 1px; height: 55px; } 
+.note-END{ background-position: -546px 0; width: 9px; height: 55px; } 
+.note-RECT{ background-position: -560px 0; width: 10px; height: 55px; } 
+.note-START{ background-position: -575px 0; width: 14px; height: 55px; } 
+
+#title{
+	display:block;
+	border:none;
+	margin:0 auto 0px;
+	font-size:24px;
+	text-decoration:underline;
+	text-align:center;
+}
+#result{
+	text-align:center;
+	margin:0 auto;
+	background:#fff;
+	margin-bottom:10px;
+	padding:0 0;
+}
